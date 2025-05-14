@@ -1,0 +1,19 @@
+{
+  "name": "@socle-commun/vitepress-plugin-auto-nav",
+  "version": "1.0.0",
+  "description": "A VitePress plugin to generate a nav automatically based on the file structure.",
+  "keywords": [
+    "vitepress",
+    "plugin",
+    "auto",
+    "nav"
+  ],
+  "author": "Socle Commun",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

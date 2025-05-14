@@ -1,0 +1,35 @@
+{
+  "name": "@socle-commun/vitepress-plugin-auto-sidebar",
+  "version": "1.0.0",
+  "description": "A VitePress plugin to generate a sidebar automatically based on the file structure.",
+  "keywords": [
+    "vitepress",
+    "plugin",
+    "auto",
+    "sidebar"
+  ],
+  "author": "Socle Commun",
+  "license": "MIT",
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "typescript": "^5.8.3",
+    "vitepress": "^1.6.3"
+  }
+}

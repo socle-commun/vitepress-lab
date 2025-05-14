@@ -1,0 +1,13 @@
+{
+  "name": "@socle-commun/vitepress-lab",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "Socle Commun",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "documentation",
+    "packages/*"
+  ]
+}
