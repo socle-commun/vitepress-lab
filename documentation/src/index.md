@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "VitePress Lab"
-  text: "All things VitePress from Socle Commun"
+  name: VitePress Lab
+  text: All things VitePress from Socle Commun
   tagline: My great project tagline
   actions:
     - theme: brand
