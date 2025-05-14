@@ -56,4 +56,4 @@ This project is experimental but open to contributions. If you have an idea for 
 
 ## 📜 License
 
-[MIT](./LICENSE.md)
+[MIT](./LICENSE.md) © 2025 - [Socle Commun](https://github.com/socle-commun)
