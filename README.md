@@ -1,6 +1,6 @@
 # VitePress Lab
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE.md)
 [![Node.js](https://img.shields.io/badge/Node.js-≥22.0.0-blue.svg)](https://nodejs.org/)
 [![npm workspace](https://img.shields.io/badge/npm-workspaces-orange)](https://docs.npmjs.com/cli/v8/using-npm/workspaces)
 [![Made with VitePress](https://img.shields.io/badge/Made%20with-VitePress-4baaaa?logo=vite)](https://vitepress.dev/)
